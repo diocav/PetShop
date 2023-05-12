@@ -8,6 +8,7 @@
 header{
     text-align: center;
     background-image: url(../img/fundo-topo.jpg);
+<<<<<<< HEAD
     padding: 10px 0;
 }
 
@@ -22,6 +23,14 @@ nav{
     padding: 15px 0;
 }
 
+=======
+}
+
+nav{
+    padding: 15px 0;
+    text-align: center;
+}
+>>>>>>> f3fa1c2c0c668c1601c465a270add191af34ab3a
 nav li{
     display: inline;
     background-image: url(../img/patinha-preta.png);
@@ -29,13 +38,18 @@ nav li{
     padding-right: 27px;
     margin-right: 10px;
     background-position: center right;
+<<<<<<< HEAD
     
 }
 
+=======
+}
+>>>>>>> f3fa1c2c0c668c1601c465a270add191af34ab3a
 nav a{
     text-decoration: none;
     color: #000;
 }
+<<<<<<< HEAD
 
 nav a:hover{
     color: #6dd432;
@@ -65,6 +79,7 @@ nav a:hover{
 
 .flex-container .col{
     width: 430px;
+<<<<<<< HEAD
 }
 
 .texto-centralizado{
@@ -99,4 +114,10 @@ nav a:hover{
 
 #produto .flex-container{
     margin-top: 43px;
+=======
+=======
+nav a:hover{
+    color: #6dd432;
+>>>>>>> f3fa1c2c0c668c1601c465a270add191af34ab3a
+>>>>>>> b6d439ba6a1cbd90d1ee0fe95011d78dfdce6289
 }
